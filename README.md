@@ -22,7 +22,7 @@
 * wordcloud
 * Markdown2
 * redis 数据库
-* mysql 数据库
+* mysql 数据库 5.6版本以上，5.5不支持多timestamp
 
 
 安装命令：
